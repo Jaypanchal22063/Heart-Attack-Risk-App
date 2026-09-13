@@ -5,16 +5,16 @@ An ML app analyzes user data and predicts based on factors using the best of two
 Features<br>
 
 Exploratory Data Analysis (EDA)<br>
-Feature scaling using StandardScaler
-Multiple ML models implemented:
-Logistic Regression
-Support Vector Machine (SVM)
-Random Forest Classifier
-Model evaluation using:
-Accuracy
-Precision
-Recall
-F1-Score
-Confusion Matrix
-Best model saved using joblib
+Feature scaling using StandardScaler<br>
+Multiple ML models implemented:<br>
+Logistic Regression<br>
+Support Vector Machine (SVM)<br>
+Random Forest Classifier<br>
+Model evaluation using:<br>
+Accuracy<br>
+Precision<br>
+Recall<br>
+F1-Score<br>
+Confusion Matrix<br>
+Best model saved using joblib<br>
 Interactive Streamlit web app for user input & prediction
